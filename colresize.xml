@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>Column resize</name>
+   <key>colresize</key>
+   <state>stable</state>
+    <logo>https://raw.githubusercontent.com/tomolimo/colresize/master/plugin.png</logo>
+   <description>
+      <short>
+         <fr><![CDATA[Colresize donne la possibilité de redimensionner les colonnes des listes.]]></fr>
+         <en><![CDATA[Colresize gives the possibility to resize columns in lists.]]></en>
+      </short>
+      <long>
+         <fr><![CDATA[Ce plugin est fait pour permettre le redimensionnement des colonnes des listes de tout les objets de GLPI (Tickets, ...). De plus, il conserve la configuration de dimensionement pour chaque type de liste.]]></fr>
+         <en><![CDATA[This plugin shows thumbs that permit to resize columns of list of any object type (Tickets, ...). Moreover, it keeps sizing configuration for each list type.]]></en>
+      </long>
+   </description>
+   <homepage>https://github.com/tomolimo/colresize</homepage>
+   <download>https://github.com/tomolimo/colresize/releases</download>
+   <issues>https://github.com/tomolimo/colresize/issues</issues>
+   <readme>https://github.com/tomolimo/colresize/wiki</readme>
+   <authors>
+      <author>Olivier Moron</author>
+   </authors>
+   <versions>
+      <version>
+          <num>2.0.0</num>
+          <compatibility>10.0</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <lang>Any</lang>
+   </langs>
+   <license><![CDATA[GPL v2+]]></license>
+   <tags>
+         <fr>
+            <tag>Colonne</tag>
+            <tag>Redimensionner</tag>
+         </fr>
+         <en>
+            <tag>Column</tag>
+            <tag>Resize</tag>
+         </en>
+   </tags>
+</root>
