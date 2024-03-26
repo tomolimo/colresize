@@ -3,15 +3,15 @@
    <name>Column resize</name>
    <key>colresize</key>
    <state>stable</state>
-    <logo>https://github.com/tomolimo/colresize/blob/10f89dc28d477851926a581b7fbff25f3676ef4c/plugin.png</logo>
+   <logo>https://github.com/tomolimo/colresize/blob/10f89dc28d477851926a581b7fbff25f3676ef4c/plugin.png</logo>
    <description>
       <short>
-         <fr><![CDATA[Colresize donne la possibilité de redimensionner les colonnes des listes.]]></fr>
-         <en><![CDATA[Colresize gives the possibility to resize columns in lists.]]></en>
+         <fr>Colresize donne la possibilité de redimensionner les colonnes des listes.</fr>
+         <en>Colresize gives the possibility to resize columns in lists.></en>
       </short>
       <long>
-         <fr><![CDATA[Ce plugin est fait pour permettre le redimensionnement des colonnes des listes de tout les objets de GLPI (Tickets, ...). De plus, il conserve la configuration de dimensionement pour chaque type de liste.]]></fr>
-         <en><![CDATA[This plugin shows thumbs that permit to resize columns of list of any object type (Tickets, ...). Moreover, it keeps sizing configuration for each list type.]]></en>
+         <fr>Ce plugin est fait pour permettre le redimensionnement des colonnes des listes de tout les objets de GLPI (Tickets, ...). De plus, il conserve la configuration de dimensionement pour chaque type de liste.</fr>
+         <en>This plugin shows thumbs that permit to resize columns of list of any object type (Tickets, ...). Moreover, it keeps sizing configuration for each list type.</en>
       </long>
    </description>
    <homepage>https://github.com/tomolimo/colresize</homepage>
@@ -30,7 +30,7 @@
    <langs>
       <lang>Any</lang>
    </langs>
-   <license><![CDATA[GPL v2+]]></license>
+   <license>GPL v2+]</license>
    <tags>
          <fr>
             <tag>Colonne</tag>
