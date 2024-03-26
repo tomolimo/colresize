@@ -3,7 +3,7 @@
    <name>Column resize</name>
    <key>colresize</key>
    <state>stable</state>
-   <logo>https://github.com/tomolimo/colresize/blob/10f89dc28d477851926a581b7fbff25f3676ef4c/plugin.png</logo>
+   <logo>https://raw.githubusercontent.com/tomolimo/colresize/main/plugin.png</logo>
    <description>
       <short>
          <fr>Colresize donne la possibilité de redimensionner les colonnes des listes.</fr>
